@@ -2,7 +2,6 @@ language: ja
 title: フリーランスを目指す3年目SEのブログ
 description: > # this means to ignore newlines until "baseurl:"
   フリーランスを目指して奮闘する入社3年目のシステムエンジニアのブログ
-  座右の銘「MacBook使うやつは凡」
 permalink: ':title/'
 baseurl: "/my-blog" # the subpath of your site, e.g. /blog
 url: "https:/chigirh.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
@@ -11,7 +10,9 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: H.C # add your name
 author-img: my-icon.jpg # add your photo
-about-author: フリーランスを目指して奮闘する入社3年目のシステムエンジニア # add description
+about-author: フリーランスを目指して奮闘する入社3年目のシステムエンジニアのブログ
+ <br> 座右の銘<br>
+ 「MacBook使うやつは凡」 # add description
 social-twitter: autism_die # add your Twitter handle
 social-github: chigirh # add your Github handle
 social-linkedin: # add your Linkedin handle
