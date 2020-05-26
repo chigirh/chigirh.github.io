@@ -1,5 +1,6 @@
 ---
 layout: post
+locale : "ja-JP"
 title: GitHub Pages & Jekyll
 date: 2020-05-26 12:00:00 +0300
 description:
