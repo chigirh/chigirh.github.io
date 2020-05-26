@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GitHub Pages & Jekyllを使ってブログを作成する方法
+title: GitHub Pages & Jekyll
 date: 2020-09-12 00:00:00 +0300
 description: You窶冤l find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: software.jpg # Add image post (optional)
