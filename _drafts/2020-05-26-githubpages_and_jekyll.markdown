@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GitHub Pages&Jekyllを使ってブログを作成する方法　1"
+title: "GitHub Pages&Jekyllを使ってブログを作成する方法1"
 date: 2020-05-26 12:00:00 +0900
 description:
 img: 2020-05-26_1.jpg # Add image post (optional)
@@ -26,6 +26,19 @@ __楽__
 
 1. 無料で"github.io"ドメインを利用することができる。
 2. Markdown（マークダウン）記法を使って、記事を書くことができる。
+3. GitHubにpushするだけで記事を更新することができる。
+4. Jekyllを使えば、HTMLやCSSの知識が無くても作れるので敷居が低い。
+
+## GitHub Pagesの運用方法
+
+* 前提
+ * GitHubのアカウントを持っていること
+
+GitHubのアカウントを持ってい無い方は、GitHubでサインアップしてください。
+
+参考
+[GitHubアカウント作成とリポジトリの作成手順](https://qiita.com/kooohei/items/361da3c9dbb6e0c7946b)
+
 
 
 
