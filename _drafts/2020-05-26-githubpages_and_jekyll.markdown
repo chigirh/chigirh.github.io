@@ -50,8 +50,6 @@ __手順__
 * リポジトリの作成  
     _参考_  
     [GitHubアカウント作成とリポジトリの作成手順](https://qiita.com/kooohei/items/361da3c9dbb6e0c7946b)  
-    この時のリポジトリ名はブログのURLの一部になります  
-    [GitHubのアカウント名].github.io/[リポジトリ名]
 * ローカルリポジトリを用意する
     名前はなんでも良いです。
 * リモートリポジトリにpushする  
@@ -73,7 +71,7 @@ __手順__
 
 * ブラウザからアクセス  
 <p style="padding: 5px;border: 2px solid gray;background: whitesmoke;">
-<span style="color: black">https://[GitHubのユーザ名].github.io/[リポジトリ名]</span></p>  
+<span style="color: black">https://[GitHubのユーザ名].github.io</span></p>  
 するとHelloWorldと書かれたWebページが表示されるはずです。
 
 ***
