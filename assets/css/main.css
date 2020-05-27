@@ -1,6 +1,29 @@
 /*! normalize.css v7.0.0 | MIT License | github.com/necolas/normalize.css */
 /* Document
    ========================================================================== */
+
+/**
+MyCss
+*/
+.box{
+  padding: 5px;
+  border: 1px solid gray;
+  background: whitesmoke;
+  border-radius: 2px;
+}
+
+.span-black{
+  color: black;
+}
+
+.span-red{
+  color: red;
+}
+
+.span-green{
+  color: #0c0;
+}
+
 /**
  * 1. Correct the line height in all browsers.
  * 2. Prevent adjustments of font size after orientation changes in

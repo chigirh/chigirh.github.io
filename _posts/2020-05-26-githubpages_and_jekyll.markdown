@@ -53,28 +53,30 @@ __手順__
     この時のリポジトリ名はブログのURLの一部になります  
     [GitHubのアカウント名].github.io/[リポジトリ名]
 * ローカルリポジトリを用意する  
-    名前はなんでも良いです。
+    リポジトリ名  
+    <p class="box">
+    <span class="span-black">[GitHubのユーザ名].github.io</span></p>
 * リモートリポジトリにpushする  
-<p style="padding: 5px;border: 2px solid gray;background: whitesmoke;">
-<span style="color: green">$</span>&nbsp;&nbsp;&nbsp;<span style="color: red">cd&nbsp;[ローカルリポジトリのパス]</span>
-<br>
-<span style="color: green">$</span>&nbsp;&nbsp;&nbsp;<span style="color: red">git&nbsp;init</span>
-<br>
-<span style="color: green">$</span>&nbsp;&nbsp;&nbsp;<span style="color: red">echo&nbsp;HelloWorld&nbsp;>>&nbsp;index.html</span>
-<br>
-<span style="color: green">$</span>&nbsp;&nbsp;&nbsp;<span style="color: red">git&nbsp;add&nbsp;.</span>
-<br>
-<span style="color: green">$</span>&nbsp;&nbsp;&nbsp;<span style="color: red">git&nbsp;commit&nbsp;-m&nbsp;"first commit"</span>
-<br>
-<span style="color: green">$</span>&nbsp;&nbsp;&nbsp;<span style="color: red">git&nbsp;remote&nbsp;add&nbsp;origin&nbsp;https://github.com/[GitHubのユーザ名]/[リポジトリ名].git</span>
-<br>
-<span style="color: green">$</span>&nbsp;&nbsp;&nbsp;<span style="color: red">git&nbsp;push&nbsp;-u&nbsp;origin&nbsp;master</span>
-</p>
+    <p class="box">
+    <span class="span-green">$</span>&nbsp;&nbsp;&nbsp;<span class="span-red">cd&nbsp;[ローカルリポジトリのパス]</span>
+    <br>
+    <span class="span-green">$</span>&nbsp;&nbsp;&nbsp;<span class="span-red">git&nbsp;init</span>
+    <br>
+    <span class="span-green">$</span>&nbsp;&nbsp;&nbsp;<span class="span-red">echo&nbsp;HelloWorld&nbsp;>>&nbsp;index.html</span>
+    <br>
+    <span class="span-green">$</span>&nbsp;&nbsp;&nbsp;<span class="span-red">git&nbsp;add&nbsp;.</span>
+    <br>
+    <span class="span-green">$</span>&nbsp;&nbsp;&nbsp;<span class="span-red">git&nbsp;commit&nbsp;-m&nbsp;"first commit"</span>
+    <br>
+    <span class="span-green">$</span>&nbsp;&nbsp;&nbsp;<span class="span-red">git&nbsp;remote&nbsp;add&nbsp;origin&nbsp;https://github.com/[GitHubのユーザ名]/[リポジトリ名].git</span>
+    <br>
+    <span class="span-green">$</span>&nbsp;&nbsp;&nbsp;<span class="span-red">git&nbsp;push&nbsp;-u&nbsp;origin&nbsp;master</span>
+    </p>
 
 * ブラウザからアクセス  
-<p style="padding: 5px;border: 2px solid gray;background: whitesmoke;">
-<span style="color: black">https://[GitHubのユーザ名].github.io/[リポジトリ名]</span></p>  
-するとHelloWorldと書かれたWebページが表示されるはずです。
+    <p class="box">
+    <span class="span-black">https://[GitHubのユーザ名].github.io/</span></p>  
+    するとHelloWorldと書かれたWebページが表示されるはずです。
 
 ***
 
