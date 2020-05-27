@@ -1,4 +1,4 @@
-I"�<p>今回、初めてGitHub PagesとJekyllを使ってブログを作成してみました。</p>
+I"<p>今回、初めてGitHub PagesとJekyllを使ってブログを作成してみました。</p>
 
 <p>結論…</p>
 
@@ -47,7 +47,7 @@
   <a href="https://qiita.com/kooohei/items/361da3c9dbb6e0c7946b">GitHubアカウント作成とリポジトリの作成手順</a><br />
   この時のリポジトリ名はブログのURLの一部になります<br />
   [GitHubのアカウント名].github.io/[リポジトリ名]</li>
-  <li>ローカルリポジトリを用意する
+  <li>ローカルリポジトリを用意する<br />
   名前はなんでも良いです。</li>
   <li>リモートリポジトリにpushする</li>
 </ul>
@@ -72,7 +72,10 @@
 </ul>
 <p style="padding: 5px;border: 2px solid gray;background: whitesmoke;">
 <span style="color: black">https://[GitHubのユーザ名].github.io/[リポジトリ名]</span></p>
+<p>するとHelloWorldと書かれたWebページが表示されるはずです。</p>
 
-<h3 id="次回はjekyllを使って様々なテーマの適用方法を紹介します">次回はJekyllを使って様々なテーマの適用方法を紹介します。</h3>
+<hr />
+
+<h4 id="次回はjekyllを使った様々なテーマの適用方法を紹介します">次回はJekyllを使った様々なテーマの適用方法を紹介します。</h4>
 
 :ET
