@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GitHub Pages&Jekyllを使ってブログを作成する方法1"
+title: "GitHub Pagesを使ってブログを作成する方法"
 date: 2020-05-26 12:00:00 +0900
 description:
 img: 2020-05-26_1.jpg # Add image post (optional)
@@ -81,7 +81,11 @@ __手順__
 ***
 
 
-#### 次回はJekyllを使った様々なテーマの適用方法を紹介します。
+#### Jekyllを使ってThemeを適用する方法
+参考  
+[GitHub PagesにJekyllを使っていい感じのページを作る例](https://qiita.com/stkdev/items/0e2df27736acbea9bd26)
+
+***
 
 
 
